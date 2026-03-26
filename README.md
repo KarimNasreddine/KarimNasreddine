@@ -1,6 +1,6 @@
 ### Karim Nasreddine
 
-Founder of Orbita, FluidityAI, and OneSimple. Music producer with over 30 million streams worldwide.
+Founder of [OneSimple](https://onesimple.ai), [Orbita](https://orbita.zone), and FluidityAI. Music producer with over 30 million streams worldwide.
 
 Computer and Communications Engineering, American University of Beirut.
 
